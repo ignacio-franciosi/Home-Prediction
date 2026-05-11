@@ -1,6 +1,8 @@
 # California Home Price Prediction 🏠
 
 This project applies Machine Learning techniques to predict median house values in California districts based on 1990 Census data. The primary objective is to build a regression model capable of estimating property prices using various demographic and geographical features.
+The project makes an evaluation of 3 different models to conclude which is the best for this requirement.
+The 3 models are: Linear Regression, Random Forest Regressor and XGBoost
 
 ## 📋 Project Overview
 
